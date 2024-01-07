@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats-iota-snowy-62.vercel.app/api/top-langs/?username=wukachn&langs_count=11&size_weight=0.65&count_weight=0.35&layout=donut-vertical&hide=Dockerfile,Batchfile,Shell)
+![Top Langs](https://github-readme-stats-iota-snowy-62.vercel.app/api/top-langs/?username=wukachn&langs_count=11&size_weight=0.65&count_weight=0.35&layout=donut-vertical&hide=Dockerfile,Batchfile,Shell&theme=dark)
